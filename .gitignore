@@ -1,16 +1,2 @@
-# Python cache and virtual environments
-__pycache__/
-*.py[cod]
-*$py.class
 .venv/
-venv/
-ENV/
-env/
-
-# IDE settings
-.vscode/
-
-# Distribution/build
-build/
-dist/
-*.egg-info/
+__pycache__/
